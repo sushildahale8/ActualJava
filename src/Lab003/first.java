@@ -6,7 +6,16 @@ public class first {
        // System.out.println(10/0);
 
         System.out.print("Hello World3");
-        System.out.print("Hello World4");
+        System.out.println("Hello World4");
+
+        int a=10;
+        int b;
+        b=a++;
+        System.out.println(b);
+        System.out.println(a);
+
+
+
     }
 
 }
